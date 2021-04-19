@@ -2,8 +2,11 @@
 #### Hangman is a fun game, where one tries to guess the word by suggesting letters within a certain number of guesses. 
 
 ## Content:
-* `Hangman.py` - Contains simple python code for the game.
-* `Hangman_guessing` - Contains list of words which will appear in the game randomly one at a time.
+* `Hangman-CLI` -- Contains python code for the cmd version of the game.
+* `Hangman-GUI` -- Contains python code for the GUI version of the game.
+
+## Dependencies:
+* ```pygame```
 
 ## Description:
 * Player selects a letter of the alphabet.
